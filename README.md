@@ -6,6 +6,7 @@
 - 📫 Entre em contato comigo: vinicius.marotti@hotmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmarotti1&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

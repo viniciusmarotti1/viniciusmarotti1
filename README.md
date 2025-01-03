@@ -2,7 +2,7 @@
 
 
 - 🔭 Faço faculdade de Análise e Desenvolvimento de Sistemas
-- 🌱 Hoje estudo Desevolvimento Web.
+- 🌱 Trabalho com Análise de dados e tenho alguns projetos de Desevolvimento Web.
 - 📫 Entre em contato comigo: vinicius.marotti@hotmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarotti1&theme=tokyonight)
